@@ -156,6 +156,12 @@ public class GetScreen extends Application {
 		}
 		
 	}
+	
+	public <T,K,M> T sum(T item1, K item2){
+		
+		return item1;
+		
+	}
 
 
 
